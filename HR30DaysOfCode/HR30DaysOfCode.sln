@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR18queuestack", "HR18queue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR19Interface", "HR19Interface\HR19Interface.csproj", "{8858EABD-A822-489A-9A94-8224C586C197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR20Sorting", "HR20Sorting\HR20Sorting.csproj", "{04AFE1F9-7055-4FA0-95AB-35FC258312F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8858EABD-A822-489A-9A94-8224C586C197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8858EABD-A822-489A-9A94-8224C586C197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8858EABD-A822-489A-9A94-8224C586C197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AFE1F9-7055-4FA0-95AB-35FC258312F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AFE1F9-7055-4FA0-95AB-35FC258312F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AFE1F9-7055-4FA0-95AB-35FC258312F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AFE1F9-7055-4FA0-95AB-35FC258312F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
